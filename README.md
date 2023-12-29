@@ -4,14 +4,14 @@ Download Raw file
 
 ## Overview
 
-Welcome to the HR Analytics Dashboard, 
+### Welcome to the HR Analytics Dashboard, 
 a powerful tool designed to offer actionable insights into your organization's human resources data.
 This dashboard provides a comprehensive view of key metrics, helping HR professionals and
 organizational leaders make informed decisions for workforce management.
 
 ## Features
-HR ANALYTICS DASHBOARD KPI'S
-Total Employees, Total Attrition, Attrition Rate, No. of Female and Male
+## HR ANALYTICS DASHBOARD KPI'S
+### Total Employees, Total Attrition, Attrition Rate, No. of Female and Male
 EXCEL KPI's
 1)Total Employees by Business Travel
 2)Department wise Attrition

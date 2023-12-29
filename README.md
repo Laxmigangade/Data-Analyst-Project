@@ -33,5 +33,5 @@ Tableau KPI's
 3)Deparment wise Attrition
 4)No. of Employees By Age Group
 5)Job Role wise No. of Employees and Attrition
-![image](https://github.com/Laxmigangade/Data-Analyst-Project/assets/147023924/78522d2d-f85c-419a-8511-d7d9d5a0b6dd)
+
 

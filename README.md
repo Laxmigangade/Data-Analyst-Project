@@ -10,8 +10,8 @@ This dashboard provides a comprehensive view of key metrics, helping HR professi
 organizational leaders make informed decisions for workforce management.
 
 ## Features
-## HR ANALYTICS DASHBOARD KPI'S
-### Total Employees, Total Attrition, Attrition Rate, No. of Female and Male
+## HR ANALYTICS DASHBOARD KPI'S.
+## Total Employees, Total Attrition, Attrition Rate, No. of Female and Male.
 EXCEL KPI's
 1)Total Employees by Business Travel
 2)Department wise Attrition
